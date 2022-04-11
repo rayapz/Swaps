@@ -1,4 +1,4 @@
-![swaps](https://aeroswap.vercel.app/images/aeroswap.png)
+![swaps](https://aeroswap.vercel.app/images/Swap.png)
 
 ## Intro
 

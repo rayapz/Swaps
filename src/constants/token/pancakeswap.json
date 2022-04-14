@@ -11,6 +11,14 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
+      "name": "AEROCHAIN COIN v2",
+      "symbol": "AERO-V2",
+      "address": "0x6b992d72bda6a5463aefa01e4790ea3767af91c2",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "/images/coins/AERO.png"
+      },
+    {
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
